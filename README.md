@@ -1,4 +1,7 @@
 # ClearVision-v6-Fa
+
+Theme Discord
+
 Official Sources
 https://github.com/ClearVision/ClearVision-v6
 
