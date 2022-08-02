@@ -1,5 +1,7 @@
 # ClearVision-v6-Fa
 
+[![Github All Releases](https://img.shields.io/github/downloads/nimaisox/ClearVision-v6-Fa/total.svg)]()
+
 **Theme Discord**
 
 Official Sources
