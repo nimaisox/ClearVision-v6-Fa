@@ -1,5 +1,8 @@
 # ClearVision-v6-Fa
 
+ClearVision Update : v6.3.0
+Releases 6.3.0
+
 [![Github All Releases](https://img.shields.io/github/downloads/nimaisox/ClearVision-v6-Fa/total.svg)]()
 
 **Theme Discord**
@@ -18,5 +21,3 @@ Get the ClearVision_v6.theme.css file and add it to the Better Discord themes fi
 Go to themes settings, turn on theme.
 
 Just For Iranian :)
-
-ClearVision Update : v6.3.0
